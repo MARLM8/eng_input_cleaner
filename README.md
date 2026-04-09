@@ -145,7 +145,7 @@ text_pipeline/
 
 ---
 
-## Roadmap (optional)
+## Roadmap 
 
 * Add trigram scoring
 * Language detection
