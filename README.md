@@ -1,4 +1,4 @@
-# Text Pipeline
+# Input Cleaner
 
 Lightweight text preprocessing pipeline for cleaning, scoring and compressing user input.
 
