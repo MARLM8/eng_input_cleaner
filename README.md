@@ -157,7 +157,7 @@ text_pipeline/
 
 ## License
 
-MIT
+Apache-2.0
 
 ---
 
