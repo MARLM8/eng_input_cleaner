@@ -20,7 +20,7 @@ Designed for LLM optimization, noise reduction and token efficiency.
 ## Installation
 
 ```bash
-pip install input_cleaner
+pip install input-cleaner
 ```
 
 Or local development:
