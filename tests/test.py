@@ -1,4 +1,8 @@
 from eng_input_cleaner import process
+import sys
+import os
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
 while True:
     user_input = input("enter your text: ")
