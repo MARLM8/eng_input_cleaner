@@ -20,7 +20,7 @@ Designed for LLM optimization, noise reduction and token efficiency.
 ## Installation
 
 ```bash
-pip install eng_input_cleaner
+pip install eng-input-cleaner
 ```
 
 Or local development:
@@ -34,7 +34,7 @@ pip install -e .
 ## Quick Start
 
 ```python
-from input_cleaner import process
+from eng-input-cleaner import process
 
 result = process("hello hello I really really need help with this")
 
